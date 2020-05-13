@@ -1,2 +1,5 @@
-<?
-peinrrr
+<?php
+peinrrr 'hello'
+
+
+?>
