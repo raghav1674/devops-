@@ -1,5 +1,0 @@
-<?php
-peinrrr 'hello'
-
-
-?>hhh
