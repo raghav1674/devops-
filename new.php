@@ -1,4 +1,4 @@
 <?php
-eco "hello"
-echo "DE
+eco "hello";
+echo "DEV";
 ?>
